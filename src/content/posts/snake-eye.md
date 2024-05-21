@@ -8,6 +8,10 @@ category: 'YGO'
 draft: false 
 ---
 
+> 2024-05-17 snake-eyes diabellstar combo补充
+>
+> 2024-04-15 banlist后combo调整
+
 ## Optimization
 
 TODO princess在墓地，同时墓地没有spellcaster (无法selene增值) 时的防nib斩杀路线
