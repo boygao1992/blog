@@ -1,5 +1,4 @@
 import tailwind from "@astrojs/tailwind"
-import Compress from "astro-compress"
 import icon from "astro-icon"
 import { defineConfig } from "astro/config"
 import Color from "colorjs.io"
@@ -52,9 +51,6 @@ export default defineConfig({
         "fa6-regular": ["*"],
         "fa6-solid": ["*"],
       },
-    }),
-    Compress({
-      Image: false,
     }),
     svelte(),
     sitemap(),
