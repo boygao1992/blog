@@ -98,6 +98,29 @@ dharc特招对面墓地IP做princess/apollousa有效破抗性，保证不会被�
 island炸kirin找garunix, 对策apollousa跟对策king caesar不同，C1 garunix C2 kirin能交换到至少1次apollousa效果，反之则对面放过再无效登场效果或者咎姬炸了再无效墓地arvata效果
 circle失去墓地对象依然炸场上对象
 
+2024-06-15
+
+1. nadir servant被ash也会自肃
+2. 对局tear paleozoic, 对面墓地rise to the full height, 场上tear kash + suliak, 我almiraj + parallelX + druiswurm, 应该parallelX + druiswurm进SP, druiswurm交换tear kash, 
+3. C1 temple C2 princess, 卡时点解原版yubel
+4. 后手有机会knightmare phoenix激活flamberge的情况，思维定式wanted找snake-eyes diabellstar, witch cost diabellstar, 应该witch cost ash, flamberge link2 knightmare phoenix cost 手上另一张ash
+
+2024-06-02
+
+1. C1 fenrir C2 fadra同调，black rose和trident会卡时点，因为是when
+
+2024-06-01
+
+1. 对局floow, 手牌veiler + nib, 对面先做巨神鸟，需要鸵鸟除外墓地帝企然后大嘴回收，我C1 veiler C2巨神鸟 C3 nib, veiler失去对象没结算被反帝企，应该留nib到帝企登场再交
+
+2. 对手imperm + veiler + nib捏到最后交，这里nib接imperm我apollousa, 贪了apollousa效果crossout imperm被veiler击中
+
+2024-05-25
+
+1. 场上underworld goddess, 手牌witch + veiler + parallelX, witch cost veiler, 没有确认ex没有dharc, witch + goddess没有link2可以做
+2. accesscode不取对象炸，可以解melodious aria
+3. skill drain下, SP可以保knightmare phoenix通过但不能保zealantis通过4. 类似raging phoenix这种给自身加攻的效果会被skill drain无效，给其他怪物加攻的效果不会被无效
+
 2024-05-10
 
 1. 对局branded, 忘记墓地opening代破
@@ -117,7 +140,7 @@ circle失去墓地对象依然炸场上对象
 
 3. 对面后场明的d barrier仍然可以常规路线，对面最多hold到bident墓地效果
 
-4. (credit: 阿舜)战阶zhong打hieratic seal逼效果弹zhong, kaimen找bai特招手牌zhong, 对面特招fa (数值0/0), belle交换fa效果，crossout对面kaimen, 这里斩杀路线是zhong拉bai盖manor, 同调bident拉bai同调transcend效果把fa扭攻，墓地bident效果特招并炸manor翻倍transcend, 3000x2 + 2600 = 8600斩杀
+4. (credit: 阿舜)战阶chundra打hieratic seal逼效果弹chundra, kaimen找paidra特招手牌chundra, 对面特招fadra (数值0/0), belle交换fadra效果，crossout对面kaimen, 这里斩杀路线是chundra拉paidra盖summoning, 同调bident拉paidra同调transcend效果把fadra扭攻，墓地bident效果特招并炸summoning翻倍transcend, 3000x2 + 2600 = 8600斩杀
 
 2024-04-27
 
@@ -329,6 +352,102 @@ zealantis路线princess墓地效果需要破坏自己场上炎属性怪兽注意
 linkuriboh能借由snake-eye的贴ST cost ST的机制来增加一个link值，但会妨碍路线中的IP/sunlight wolf登场，所以有些路线不需要linkuriboh登场，或者登场后ash/oak解放linkuriboh，否则再过hiita转炎等于没赚link值还浪费了hiita
 
 G2/G3 play around superpoly
+
+### verification
+
+link materials
+
+- ash 1
+  
+  - -1 if cost another link body
+
+- poplar 1
+
+- temple/diabellstar 1
+
+- oak 1
+  
+  - -1 if cost another link body
+
+- flamberge 2
+
+- princess 1
+  
+  - -2 if link2
+  
+  - -4 if ash/oak cost princess
+
+- selene 1
+  
+  - 3 spells
+
+- witch 1-2
+  
+  - -1 if witch cost another link body
+  
+  - +1 if original cost ST
+
+- parallelX 2 (+ SP除外banshee 1)
+  
+  - SP除外banshee增值但牺牲对方回合IP进SP选项，除非SP带2但失去linkuriboh后不太现实
+
+- pressure planet/unicorn 2
+
+free costs
+
+- temple/diabellstar 1-2
+  
+  - 先攻一般保留temple所以只计1, 但后攻可以考虑cost temple
+
+- poplar 1
+
+- flamberge 1
+  
+  - 先攻一般是贴IP所以不计入cost, 但后攻可以考虑cost flamberge贴的对象
+
+- pressure planet/unicorn 2/1
+
+cost requirements
+
+- ash 1
+
+- oak 1
+
+- witch 1
+
+- original 1
+
+summary
+
+- 在使用temple和poplar提供的free costs来维持ash和oak的2效果不损失link值的前提下，单ash可以调度7值，有spell能过selene的情况8值
+
+- witch和original没有透支free cost的情况下，则可以算作2值
+  
+  - ash 2效果, oak 2效果, original一般只需要其中2个就能调度全部资源，所以比如ash + witch前置apollousa的路线会出现没使用ash 2效果的情况
+
+常见终端link值校验
+
+- (9值) apollousa + zealantis/SP + flamberge (+ temple + 后场IP + 墓地princess + raging phoenix)
+  
+  - SP置换zealantis, princess作为link2素材link值-2, 所以虽然终场7值但一共要求9值
+  
+  - witch 7 + selene 1 + 通召1
+  
+  - 无法单ash达成，witch开通召补1值可以达成
+    
+    - 反过来说，单ash不考虑apollousa
+
+- (10值) apollousa + zealantis/SP + flamberge + birch (+ temple + 后场IP + 墓地princess + raging phoenix)
+  
+  - 7 ash + parallelX 2 + SP除外banshee 1
+  
+  - 7 ash + selene 1 + parallelX 2
+  
+  - ~~7 ash + selene 1 + witch 2~~
+    
+    - 值看似够了但调度birch则需要3 costs (original调度oak, oak调度flamberge, ash调度birch), temple + poplar只能提供2 costs所以需要cost 1前场则总共11值
+    
+    - 或者牺牲终端zealantis/SP, ash cost raging phoenix特招birch
 
 ### 1 card
 
@@ -768,17 +887,27 @@ witch手牌特招盖卡组original cost witch特招卡组poplar找temple
 妥协
 
 - (check veiler/imperm) ash吃veiler/imperm
-  ash link1 ~~linkuriboh~~ almiraj, 手牌特招parallelX特招卡组2号R4 banshee找poplar手牌特招找temple贴oak, ~~linkuriboh~~ almiraj + banshee link2 SP除外banshee特招banshee + SP link3 princess特招墓地ash cost oak特招卡组flamberge + princess link4 raging phoenix, C1 flamberge特招墓地oak + ash C2 linkuriboh cost poplar墓地特招，C1 oak特招墓地poplar C2 poplar贴墓地flamberge, ash + poplar link2 IP, oak cost linkuriboh特招卡组flamberge 2号贴SP, raging phoenix link4 zealantis
-  终场IP + zealantis + flamberge + temple + 后场SP + flamberge + 墓地princess
+  ash link1 ~~linkuriboh~~ almiraj, 手牌特招parallelX特招卡组2号R4 banshee找poplar手牌特招找temple
   
-  - (check ash blossom/mourner, second veiler/imperm) parallelX吃ash blossom/mourner/veiler/imperm
-    终场SP
+  - (投入2x flamberge) 贴oak, ~~linkuriboh~~ almiraj + banshee link2 SP除外banshee特招banshee + SP link3 princess特招墓地ash cost oak特招卡组flamberge + princess link4 raging phoenix, C1 flamberge特招墓地oak + ash C2 linkuriboh cost poplar墓地特招，C1 oak特招墓地poplar C2 poplar贴墓地flamberge, ash + poplar link2 IP, oak cost linkuriboh特招卡组flamberge 2号贴SP, raging phoenix link4 zealantis
+    终场IP + zealantis + flamberge + temple + 后场SP + flamberge + 墓地princess
+    
+    - (check ash blossom/mourner, second veiler/imperm) parallelX吃ash blossom/mourner/veiler/imperm
+      终场SP
+    
+    - (check nib) R4 banshee登场吃nib
+      停牌
+    
+    - (check belle) princess吃belle
+      终场raging phoenix + temple + 后场oak + 墓地princess
   
-  - (check nib) R4 banshee登场吃nib
-    停牌
+  - 贴snake-eyes diabellstar, almiraj + banshee + poplar link3 princess (poplar不叫墓地效果) 特招墓地ash, diabellstar贴almiraj特招，ash cost almiraj特招卡组oak特招墓地poplar, oak cost princess特招卡组flamberge + poplar link2 IP, C1 flamberge特招墓地oak + poplar C2 poplar贴flamberge, oak link1 anima + diabellstar link2 SP (3号位) 除外banshee特招banshee + poplar link2 knightmare phoenix (2号位)
+    终场IP + knightmare phoenix + (colink) SP + temple + 后场flamberge + 墓地princess
+    
+    - 只投入1 flamberge, 如果princess作为extender特招ash/oak则无法同时激活flamberge墓地效果并让终场保留flamberge, 所以最好情况是poplar/diabellstar贴flamberge. 如果flamberge登场前没有过IP, 则IP不能作link素材，留到终场
   
-  - (check belle) princess吃belle
-    终场raging phoenix + temple + 后场oak + 墓地princess
+  - 贴snake-eyes diabellstar, banshee + almiraj link2 SP除外banshee特招banshee + SP link3 princess特招墓地ash, diabellstar贴almiraj特招，ash cost almiraj特招卡组oak特招墓地ash (这里可以不过oak, 因为终场留后场flamberge, 只有1 free cost), oak cost ash特招卡组flamberge贴SP, diabellstar + princess link4 raging phoenix link4 zealantis, flamberge + poplar link2 IP, C1 flamberge特招墓地oak + poplar, C2 poplar贴flamberge, oak + poplar link2 knightmare phoenix
+    终场IP (5号位) + knightmare phoenix (1号位) + zealantis (2号位) + temple + 后场SP + flamberge + 墓地princess + raging phoenix
 
 - (check droll) ash找poplar吃droll
   ~~poplar link1 linkuriboh, C1 poplar贴自己 C2 parallelX手牌特招，parallelX特招卡组2号R4 banshee堆oak, linkuriboh + banshee link2 SP除外banshee特招banshee, ash cost poplar特招卡组flamberge, SP + banshee + flamberge link4 apollousa, flamberge特招墓地oak + poplar, oak特招墓地ash, ash + poplar link2 IP + oak link3 princess特招墓地oak cost princess特招卡组flamberge贴墓地IP
