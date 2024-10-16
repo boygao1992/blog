@@ -30,6 +30,7 @@ draft: false
     - [angwitch](#angwitch)
         - [mace - [fusion] - ghattic - [shleepy]](#mace---fusion---ghattic---shleepy)
             - [(防nib, 堆墓富余可调度trap)](#防nib-堆墓富余可调度trap)
+                - [nib全时点妥协](#nib全时点妥协)
             - [(不防nib, 双康, 需要下link3 agnumday或2张goblin, dark blade初动不可)](#不防nib-双康-需要下link3-agnumday或2张goblin-dark-blade初动不可)
 
 <!-- markdown-toc end -->
@@ -46,9 +47,18 @@ draft: false
 
 # Combo
 
-memento类似于hero携带大量不均质的随动件且展开路径长, 过程看似繁琐实则有迹可循, 核心资源点就是king和twin dragon两段融合, 变化则集中在如何调度和串联起这两次融合的激活机制(shleepy和fusion)和组件(shleepy需要怪值, fusion需要破坏激活和墓地名字)
+link2 herald lights materials
+- same monster x2
+- dark fiend: ghattic, goblin
+- dark warrior: dark blade, SP
+- earth beast: tatsunootoshigo, shleepy, cross-sheep
+- light fiend: moon, fiendsmith
+
+tatsunootoshigo/goblin能否独立作为starter支撑一段展开取决于ghattic是否存在于卡组中
 
 ## 资源调度
+
+memento类似于hero携带大量不均质的随动件且展开路径长, 过程看似繁琐实则有迹可循, 核心资源点就是king和twin dragon两段融合, 变化则集中在如何调度和串联起这两次融合的激活机制(shleepy和fusion)和组件(shleepy需要怪值, fusion需要破坏激活和墓地名字)
 
 怪物检索
 
@@ -323,11 +333,13 @@ goblin炸自己堆卡组ghattic + shleepy, 墓地ghattic特招回手shleepy手�
 
 ### mace - [fusion] - ghattic - [shleepy]
 
-通召angwitch找tatsunootoshigo手牌特招炸自己堆卡组shleepy + goblin + mace, angwitch炸mace特招墓地mace炸自己找fusion回tatsunootoshigo + angwitch + mace融king堆卡组king 2号 + akihiron + ghattic, 墓地ghattic特招回手shleepy, 除外墓地king 2号找field spell, C2 shleepy手牌特招 C1 除外墓地fusion炸ghattic找bone party, C2 field spell特招墓地goblin C1 shleepy + goblin融twin dragon炸自己找combined creation + mace, C1 akihiron 特招 C2 twin dragon特招墓地goblin
+通召angwitch找tatsunootoshigo手牌特招炸自己堆卡组shleepy + goblin + mace, angwitch炸mace特招墓地mace炸自己找fusion回tatsunootoshigo + angwitch + mace融king堆卡组king 2号 + akihiron + ghattic, 墓地ghattic特招回手shleepy, 除外墓地king 2号找field spell, C2 shleepy手牌特招 C1 除外墓地fusion炸ghattic找bone party, C2 field spell特招墓地goblin C1 shleepy + goblin融twin dragon炸自己找combined creation + mace
 
 #### (防nib, 堆墓富余可调度trap)
 
-goblin炸akihiron卡组堆dark blade + tatsunootoshigo (可堆trap), akihiron回手除外区fusion, king + goblin link2 moon link1 requiem解放特招卡组tears堆卡组engraver, 墓地requiem装备tears送墓特招necroquip, 墓地engraver回moon特招 + necroquip link2 sequence回engraver + requiem + tears融desirae, bone party炸手牌combined creation特招angwitch + sequence link2 SP, 墓地combined creation回twin dragon + tatsunootoshigo + dark blade + shleepy + goblin特招, 盖fusion, EP field spell盖bone party (或trap)
+(确保回手fusion, 但吃nib进不了moon) 
+
+C1 akihiron 特招 C2 twin dragon特招墓地goblin, goblin炸akihiron卡组堆dark blade + tatsunootoshigo (可堆trap), akihiron回手除外区fusion, king + goblin link2 moon link1 requiem解放特招卡组tears堆卡组engraver, 墓地requiem装备tears送墓特招necroquip, 墓地engraver回moon特招 + necroquip link2 sequence回engraver + requiem + tears融desirae, bone party炸手牌combined creation特招angwitch + sequence link2 SP, 墓地combined creation回twin dragon + tatsunootoshigo + dark blade + shleepy + goblin特招, 盖fusion, EP field spell盖bone party (或trap)
 
 终场desirae + SP + combined creation + fusion + bone party (或trap) + 手牌mace + 墓地king + angwitch
 
@@ -339,9 +351,64 @@ goblin炸akihiron卡组堆dark blade + tatsunootoshigo (可堆trap), akihiron回
 
 </details>
 
+(投入2 fusion则prioritize终场)
+
+akihiron先不特招, 用king + goblin link2 moon进fiendsmith去逼nib, 后续bone party炸手牌combined creation特招卡组dark blade (dark blade开则不能回手fusion), 墓地akihiron特招, dark blade炸akihiron特招卡组angwitch, akihiron回手除外区fusion, 3值desirae + SP
+
+##### nib全时点妥协
+
+ghattic登场时进nib range (dark blade开则是king登场时, 但同是fusion结算后的连锁处理中) 
+
+- (fusion墓地效果检索bone party前直接交nib)
+
+  贴field spell, 手牌特招shleepy, 除外墓地fusion炸shleepy找bone party, C1 墓地akihiron特招 C2 shleepy堆combined creation, bone party炸akihiron回手除外区fusion特招卡组dark blade炸自己特招卡组angwitch (dark blade开就直接特招angwitch)
+
+  - (不投入horned dragon, 手牌也没其他memento名字)
+  
+    field spell特招墓地任意memento + angwitch link2 moon link1 requiem解放特招卡组tears堆卡组engraver, 墓地requiem装备tears送墓特招necroquip, 墓地engraver回moon特招 + nib token link2 sequence回engraver + requiem + tears融desirae, sequence + necroquip link2 SP, 墓地sequence装备desirae, 墓地combined creation回akihiron + dark blade + shleepy + ghattic + goblin特招, 盖fusion, EP field spell盖bone party
+
+    终场desirae + SP + combined creation + fusion + bone party + 墓地king + angwitch
+
+  - (投入horned dragon, 或手牌有额外的memento名字)
+  
+    field spell特招墓地shleepy + 手牌memento (投入horned dragon就用场上angwitch作素材) 融twin dragon炸自己找mace + 任意续航 特招墓地任意memento + angwitch link2 moon, 后同
+
+    终场多个mace
+
+- (C1 fusion墓地效果检索时C2交nib)
+
+  fusion炸nib token找bone party, 手牌特招shleepy, bone party炸shleepy堆卡组combined creation特招卡组dark blade, C1 墓地ankihiron特招 C2 field spell特招墓地goblin, dark blade炸ankihiron回手除外区fusion特招卡组angwitch (dark blade开则goblin炸ankihiron, 会少1值终场少SP), 3值desirae + SP
+  
+  终场desirae (+ SP) + combined creation + fusion + 墓地king + angwitch
+
+- (C1 shleepy融合 C2 field spell特招墓地goblin C3 nib)
+
+  (dark blade开, 不投入horned dragon不能回手fusion)
+
+  C4 bone party炸shleepy堆卡组combined creation找dark blade (dark blade开就找angwitch), C1 shleepy送墓goblin + dark blade融twin dragon炸自己找mace + 任意续航, C1 墓地ankihiron特招 C2 twin dragon特招墓地dark blade炸ankihiron回手除外区fusion特招卡组angwitch (dark blade开需要特招goblin炸ankihiron但少的1值需要投入horned dragon补否则不能回手fusion), 3值desirae + SP
+  
+  终场desirae + SP + combined creation (+ fusion) + bone party + 手牌mace + 墓地king + angwitch
+
+- (C1 twin dragon炸 C2 nib)
+
+  (dark blade开, 不投入horned dragon不能回手fusion)
+  
+  C3 bone party炸twin dragon找dark blade, C1 twin dragon炸dark blade找combined creation + mace, C1 墓地akihiron特招 C2 twin dragon特招墓地dark blade, 下同
+  
+  终场desirae + SP + combined creation (+ fusion) + bone party + 手牌mace + 墓地king + angwitch
+
+- (twin dragon后king + 1值进moon双6星逼nib)
+
+  (dark blade开不能回手fusion)
+
+  necroquip + engraver逼nib后, bone party炸手牌combined creation特招卡组dark blade, 墓地ankihiron特招, dark blade炸ankihiron回手除外区fusion特招卡组angwitch (dark blade开不能回手fusion), 3值desirae + SP
+
+  终场desirae + SP + combined creation (+ fusion) + bone party + 手牌mace + 墓地king + angwitch
+
+
 #### (不防nib, 双康, 需要下link3 agnumday或2张goblin, dark blade初动不可)
 
-bone party炸手牌combined creation特招卡组dark blade炸ankihiron特招卡组angwitch (或goblin然后goblin x2 link2 herald lights), ankihiron回手除外区fusion, dark blade + angwitch link2 moon link1 requiem解放特招卡组tears堆卡组engraver, 墓地requiem装备tears送墓特招necroquip, 墓地engraver回moon特招 + goblin link2 sequence回engraver + moon + requiem融desirae, sequence + king link3 agnumday特招墓地tears并装备, tears + desirae link2 herald lights, 墓地combined creation回twin dragon + dark blade + shleey + ghattic + goblin特招, 盖fusion, EP field spell盖bone party, 回合外DP 墓地tears回卡组特招墓地agnumday特招desirae并装备
+C1 akihiron 特招 C2 twin dragon特招墓地goblin, bone party炸手牌combined creation特招卡组dark blade炸ankihiron特招卡组angwitch (或goblin然后goblin x2 link2 herald lights), ankihiron回手除外区fusion, dark blade + angwitch link2 moon link1 requiem解放特招卡组tears堆卡组engraver, 墓地requiem装备tears送墓特招necroquip, 墓地engraver回moon特招 + goblin link2 sequence回engraver + moon + requiem融desirae, sequence + king link3 agnumday特招墓地tears并装备, tears + desirae link2 herald lights, 墓地combined creation回twin dragon + dark blade + shleey + ghattic + goblin特招, 盖fusion, EP field spell盖bone party, 回合外DP 墓地tears回卡组特招墓地agnumday特招desirae并装备
 
 终场herald lights + desirae + combined creation + fusion + bone party + 手牌mace + 墓地king + angwitch
 
