@@ -24,14 +24,19 @@ draft: false
         - [ghattic - goblin - akihiron - [fusion] - bone party - angwitch - [shleepy]](#ghattic---goblin---akihiron---fusion---bone-party---angwitch---shleepy)
             - [fusion找bone party吃droll](#fusion找bone-party吃droll)
     - [engraver](#engraver)
-        - [(no NS) ghattic - [fusion] - twin dragon - [shleepy]](#no-ns-ghattic---fusion---twin-dragon---shleepy)
+        - [(no NS, purulia draw 1) ghattic - [fusion] - twin dragon - [shleepy]](#no-ns-purulia-draw-1-ghattic---fusion---twin-dragon---shleepy)
         - [(NS) ghattic - bone party - angwitch - mace - [fusion] - field spell - dark blade - [shleepy]](#ns-ghattic---bone-party---angwitch---mace---fusion---field-spell---dark-blade---shleepy)
         - [(NS) ghattic - [shleepy] - twin dragon - dark blade - mace - [fusion]](#ns-ghattic---shleepy---twin-dragon---dark-blade---mace---fusion)
-    - [angwitch](#angwitch)
+    - [angwitch / dark blade](#angwitch--dark-blade)
         - [mace - [fusion] - ghattic - [shleepy]](#mace---fusion---ghattic---shleepy)
             - [(防nib, 堆墓富余可调度trap)](#防nib-堆墓富余可调度trap)
                 - [nib全时点妥协](#nib全时点妥协)
             - [(不防nib, 双康, 需要下link3 agnumday或2张goblin, dark blade初动不可)](#不防nib-双康-需要下link3-agnumday或2张goblin-dark-blade初动不可)
+    - [dark blade](#dark-blade)
+        - [(purulia draw 1) goblin - ghattic - [fusion] - angwitch - shleepy](#purulia-draw-1-goblin---ghattic---fusion---angwitch---shleepy)
+    - [bone party + 1 memento](#bone-party--1-memento)
+        - [(purulia draw 1) goblin - ghattic - [fusion] - angwitch - [shleepy]](#purulia-draw-1-goblin---ghattic---fusion---angwitch---shleepy)
+    - [engraver/tract + memento](#engravertract--memento)
 
 <!-- markdown-toc end -->
 
@@ -281,7 +286,7 @@ fusion回tatsunootoshigo + goblin + mace特招king堆卡组**field spell** + aki
 
 丢engraver找tract特招lurrie link1 requiem解放特招卡组tears堆卡组engraver 2号, 墓地requiem装备tears送墓特招necroquip, 墓地engraver回lurrie特招 + necroquip link2 sequence回tears + requiem融aerial eater堆卡组goblin, sequence + aerial eater link2 cross-sheep, 墓地aerial eater除外engraver x2特招到link端, cross-sheep特招墓地goblin
 
-### (no NS) ghattic - [fusion] - twin dragon - [shleepy]
+### (no NS, purulia draw 1) ghattic - [fusion] - twin dragon - [shleepy]
 
 (不占通召, 可适用于engraver作extender的情况)
 
@@ -329,7 +334,7 @@ goblin炸自己堆卡组ghattic + shleepy, 墓地ghattic特招回手shleepy手�
 
 </details>
 
-## angwitch
+## angwitch / dark blade
 
 ### mace - [fusion] - ghattic - [shleepy]
 
@@ -419,3 +424,45 @@ C1 akihiron 特招 C2 twin dragon特招墓地goblin, bone party炸手牌combined
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/g6evCxQ88m8" frameborder="0" allowfullscreen></iframe>
 
 </details>
+
+## dark blade
+
+### (purulia draw 1) goblin - ghattic - [fusion] - angwitch - shleepy
+
+(shleepy不融twin dragon)
+
+通召dark blade炸自己特招卡组goblin炸自己堆卡组ghattic + fusion, 墓地ghattic特招回手fusion送墓ghattic回dark blade + goblin融king堆卡组king 2号 + akihiron + angwitch, 除外墓地king 2号找field spell, 除外墓地fusion炸king找bone party, C1 field spell特招墓地angwitch找shleepy C2 墓地akihiron特招, angwitch炸akihiron回手除外区fusion特招墓地ghattic, angwitch + ghattic link2 moon进fiendsmith, bone party炸shleepy堆卡组combined creation特招卡组tatsunootoshigo link2 SP
+
+终场desirae + SP + combined creation + fusion + bone party + 墓地king
+
+<details>
+
+  <summary>Video</summary>
+
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/ZR5arAwXGT0" frameborder="0" allowfullscreen></iframe>
+
+</details>
+
+## bone party + 1 memento
+
+### (purulia draw 1) goblin - ghattic - [fusion] - angwitch - [shleepy]
+
+(fusion找fusion 2号, akihiron回手ghattic作shleepy融合素材)
+
+bone party炸tatsunootoshigo特招卡组goblin炸自己堆卡组ghattic + fusion, 墓地ghattic特招回手fusion送墓ghattic回tatsunootoshigo + goblin融king堆卡组king 2号 + akihiron + dark blade, 除外墓地king 2号找field spell, 除外墓地fusion炸king找fusion 2号, C1 field spell特招墓地dark blade C2 墓地akihiron特招, dark blade炸akihiron回手墓地ghattic特招卡组angwitch找shleepy手牌特招, dark blade + 手牌ghattic融twin dragon炸自己找goblin + mace, twin dragon特招墓地dark blade, angwitch炸shleepy堆卡组combined creation特招墓地ghattic, 3值desirae + SP
+
+终场desirae + SP + combined creation + fusion + bone party + 手牌mace + goblin + 墓地king + angwitch
+
+<details>
+
+  <summary>Video</summary>
+
+  <iframe width="100%" height="400" src="https://www.youtube.com/embed/jmoBKCbRcL0" frameborder="0" allowfullscreen></iframe>
+
+</details>
+
+## engraver/tract + memento
+
+engraver/tract = R6 caesar / desirae
+
+tatsunootoshigo/angwitch只能先memento调度完fusion再fiendsmith, 有其他memento初动可以前置fiendsmith去问单nib/impulse/imperm/retaliating
